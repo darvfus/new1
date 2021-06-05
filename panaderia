@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0" />
+<title>Panaderia Rufus</title>
+<link rel="stylesheet" type="text/css" href="estilo1.css">
+
+</head>
+<body> 
+
+<ul class="menu">
+<header>
+<!-- Logo con link a la página principal -->
+  <a href="/">
+    <img src="https://getmatcha.com/wp-content/themes/getmatcha/img/footer_logo.svg" alt="Matcha"  />
+  </a>
+<li><a href="Inicio.html">Inicio</a></li>
+<li><a href="Productos.html">Productos</a></li>
+<li><a href="Servico.html">Servicio</a></li>
+<li><a href="Contacto.html">Contacto</a></li>
+<li><a href="RedesSociales.html">Redes sociales</a></li>
+<li><a href="Historia.html">Historia</a></li>
+<li><a href="Surcusales.html">Surcusarles</a></li>
+<li><a href="Surcusales.html">Sign In</a></li>
+<li>
+<form action="">
+<li><a href="Surcusales.html">Buscar</a></li>
+<input type="text" id "Buscar">
+<button>+</button>
+ 
+    
+    
+   
+</header>
+</li>
+</ul>
+
+ 
+<h1>Panaderia Rufus </h1>
+<p><center>El preferido por generaciones</center></p>
+<marquee>Ventas sobre pedido</marquee>
+
+<h2>Sugerencias En Pasteleria </h2>
+
+<ul class="menu1">
+<li><a href="Top10.html">Los preferidos por la familia</a></li>
+<li><a href="Top10.html">Los cumpleañeros</a></li>
+<li><a href="Top10.html">top 10</a></li>
+</ul>
+ 
+<p>Nuestro proposito es concervar las mas ricas y soculetas tradiciones en panaderia de la region inovando y sastifaciendo a las nuesvas generaciones sin perder el sabor elegido desde 1940</p>
+ <p>  Por que sabemos lo importante es  nutrir y concentir a la familia sin miedo a los alimentos procesados y transgenicos </p>
+<p>Contamos un rico surtido de panaderia para todo tipo de evento ademas por la crisis reciva un 20 porciento de descuento</p>
+<center><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ7jmoO7R8B8ChVzu6OHkNFcl3-gwHQIs5QUw&usqp=CAU"></center>
+
+ 
+					<div class="rectangle bg-black skew-left"></div>
+		<div class="section bg-black" id="footer">
+			<div class="center-align">
+				<div class="section-columns" >
+					<div>
+						<h3 class="white">Sigamos en Contacto.</h3>
+						<div class="btn-section">
+							<a href="mailto: contacto@misitio.com" class="btn btn-white">Mándame un mensaje</a>
+						</div>
+					</div>
+
+					<div>
+						<h4>Contáctame si quieres conocerme y saber cómo podemos colaborar en tu siguiente proyecto.</h4>
+						<p>También puedes estar conmigo por medio de las redes sociales, enterarte de mi más reciente trabajo y conocerme un poco más.</p>
+
+						<div class="btn-section">
+							<a href=" " class="btn btn-white">Facebook</a>
+							<a href=" " class="btn btn-white">Twitter</a>
+							<a href=" " class="btn btn-white">Instagram</a>
+						 
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+	</div>
+	 
+</body>
+</html>
